@@ -1,9 +1,16 @@
-## Bawling
-HS Student, Currently learning C# by creating a silly video game, [Mission Monkey](https://github.com/funny-unity-game/mission-monkey)
+## Holy moly, is this my about me file?
+I'm a HS student that is learning C#/Unity and 3d modelling (Blender). 
+Founder of the self-proclaimed Lemon Studios, an indie game studio that makes some of the games ever created
+Creator of Mission Monkey 
 
+## Stats:
 
-![Shob3r's github stats](https://github-readme-stats.vercel.app/api?username=Shob3r)
+![Shob3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shob3r&show_icons=true&theme=radical)
 
-(why are my commits on there counting to my gh stats)
+(I'll add more here later)
 
-[![Shob3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shob3r)](https://github.com/anuraghazra/github-readme-stats)
+## Links:
+
+[Mission: Monkey Source Code](https://github.com/lemons-studios/Mission-Monkey)
+
+[Mission: Monkey Website (Created by a member of Lemon Studios)](https://missionmonkey.netlify.app/)
