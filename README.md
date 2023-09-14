@@ -1,7 +1,9 @@
 ## Holy moly, is this my about me file?
-I'm a HS student that is learning C#/Unity and 3d modelling (Blender). 
-Founder of the self-proclaimed Lemon Studios, an indie game studio that makes some of the games ever created
-Creator of Mission Monkey 
+
+- (New) Unity C# Developer
+- Somewhat ok 3d Modeller
+- EDM Listener
+- Founder Of [Lemon Studios](https://lemon-studios.ca/)
 
 ## Stats:
 
