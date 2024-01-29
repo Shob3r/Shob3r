@@ -1,8 +1,7 @@
 ## Holy moly, is this my about me file?
 
-- (New) Unity C# Developer
+- C#/Java (Still somewhat of a beginner though!)
 - Somewhat ok 3d Modeller
-- EDM Listener
 - Founder Of [Lemon Studios](https://lemon-studios.ca/)
 
 ## Stats:
