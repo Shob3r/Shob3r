@@ -6,7 +6,7 @@ I am a student somewhat experienced with writing in C#, Java, and XAML. I mainly
 ## Projects
 A few of these will be pinned down below!
 ### Current
-#### [Audio Replacer 2](https://github.com/lemons-studios/audio-replacer-2)
+#### [Audio Replacer](https://github.com/lemons-studios/audio-replacer-2)
 A helpful tool that will be used in a future mod for one of my favorite video games ever; Persona 4 Golden, in which my one of my friends dubs over every single line of dialogue spoken in the game and in the cutscenes. App written with Windows App SDK
 #### [Out Of Body](https://github.com/lemons-studios/out-of-body.git)
 My second serious Unity project, much smaller in scope. For a project in my gamedev class 
