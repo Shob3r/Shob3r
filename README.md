@@ -1,6 +1,4 @@
-# Holy moly, is this my about me file?
-
-## About me
+# About Me
 I am a student somewhat experienced with writing in C#, Java, and XAML. I mainly improve my skills by making custom Unity projects, but have recently started to dabble with Windows App SDK (WinUI3) development too!
 
 ## Projects
