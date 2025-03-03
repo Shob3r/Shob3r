@@ -16,7 +16,5 @@ Simple weather app written with AvaloniaUI. Was my first experience with Windows
 # My Stats
 ![Shob3r's Stats](https://github-readme-stats.vercel.app/api?username=Shob3r&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Shob3r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shob3r&theme=tokyonight&hide_border=false)
-
 ![Shob3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shob3r&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
