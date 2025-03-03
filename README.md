@@ -10,8 +10,6 @@ A helpful tool that will be used in a future mod for one of my favorite video ga
 My second serious Unity project, much smaller in scope. For a project in my gamedev class 
 
 ## Former
-### [Mission: Monkey](https://github.com/lemons-studios/mission-monkey)
-This was really my first experience with programming. Was too ambitious and got burned out. Did get me a 100% for the school assignment it was made for though (somehow)
 ### [Shob3r's Weather App](https://github.com/Shob3r/Shob3rsWeatherApp)
 Simple weather app written with AvaloniaUI. Was my first experience with Windows app development and UI design. It works really well, but the UI is pretty horrendous not gonna lie
 
