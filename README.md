@@ -7,7 +7,7 @@ A few of these will be pinned down below!
 ### [Audio Replacer](https://github.com/lemons-studios/audio-replacer)
 A helpful tool that will be used in a future mod for one of my favorite video games ever; Persona 4 Golden, in which my one of my friends dubs over every single line of dialogue spoken in the game and in the cutscenes. App written with Windows App SDK
 
-I'm currently rewriting the app in tauri (sveltekit + typescript + rust)! A good learning experience for me as I try to get familiar with web development languages
+I'm currently rewriting the app for use with tauri (sveltekit + typescript + rust)! A good learning experience for me as I try to get familiar with web development languages
 
 ## Former
 ### [Shob3r's Weather App](https://github.com/Shob3r/Shob3rsWeatherApp)
