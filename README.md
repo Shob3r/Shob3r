@@ -1,13 +1,24 @@
 # About Me
-I am a student somewhat experienced with writing in C#, Java, and XAML. I mainly improve my skills by making custom Unity projects, but have recently started to dabble with Windows App SDK (WinUI3) development too!
+I am a student who has been programming for about 3 years. 
+
+I Have Experience in the following programming languages:
+- C#
+- Java
+- TypeScript
+- Rust
+
+I also have experience in these frameworks/markup languages:
+- [Tauri](https://tauri.app/)
+- [Svelte](https://svelte.dev/)
+- [WinUI3](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/)
+- HTML
 
 # Projects
-A few of these will be pinned down below!
+These only include projects I haven't abandoned before finishing or projects that I am not proud of. Right now it probably doesn't look like much, but eventually I hope to have a nice list of all the things I have developed
+
 ## Current
 ### [Audio Replacer](https://github.com/lemons-studios/audio-replacer)
-A helpful tool that will be used in a future mod for one of my favorite video games ever; Persona 4 Golden, in which my one of my friends dubs over every single line of dialogue spoken in the game and in the cutscenes. App written with Windows App SDK
-
-I'm currently rewriting the app for use with tauri (sveltekit + typescript + rust)! A good learning experience for me as I try to get familiar with web development languages
+A desktop application that aims to help with dubbing over voicelines in video games. This was created for an upcoming project where I get one of my friends to redub the entirety of one of my favorite video games, Persona 4 Golden. Initially, I wrote the app in C# + WinUI3, but due to some weird performance issues as well as massive bloat due to how crap WinUI3 is, I have decided to rewrite the application in tauri (Rust + TypeScript) with Svelte as the JavaScript framework of choice  
 
 ## Former
 ### [Shob3r's Weather App](https://github.com/Shob3r/Shob3rsWeatherApp)
