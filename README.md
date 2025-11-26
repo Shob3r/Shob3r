@@ -5,7 +5,7 @@ I Have Experience in the following programming languages:
 - C#
 - Java
 - TypeScript
-- Rust
+- Rust (Very small amount, only exposed through tauri)
 
 I also have experience in these frameworks/markup languages:
 - [Tauri](https://tauri.app/)
