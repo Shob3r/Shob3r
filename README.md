@@ -17,12 +17,16 @@ I also have experience in these frameworks/markup languages:
 These only include projects I haven't abandoned before finishing or projects that I am not proud of. Right now it probably doesn't look like much, but eventually I hope to have a nice list of all the things I have developed
 
 ## Current
-### [Audio Replacer](https://github.com/lemons-studios/audio-replacer)
-A desktop application that aims to help with dubbing over voicelines in video games. This was created for an upcoming project where I get one of my friends to redub the entirety of one of my favorite video games, Persona 4 Golden. Initially, I wrote the app in C# + WinUI3, but due to some weird performance issues as well as massive bloat due to how crap WinUI3 is, I have decided to rewrite the application in tauri (Rust + TypeScript) with Svelte as the JavaScript framework of choice  
+
+### [Yoohoo!](https://github.com/Shob3r/yoohoo)
+Universal "Anime Game" launcher for Linux. Aims to replicate the official windows version of the launcher, and aims to replace the linux-based launchers created by [an-anime-team](https://github.com/an-anime-team). In early development
 
 ## Former
 ### [Shob3r's Weather App](https://github.com/Shob3r/Shob3rsWeatherApp)
 Simple weather app written with AvaloniaUI. Was my first experience with Windows app development and UI design. It works really well, but the UI is pretty horrendous not gonna lie
+
+### [Audio Replacer](https://github.com/lemons-studios/audio-replacer)
+A desktop application that aims to help with dubbing over voicelines in video games.
 
 # My Stats
 ![Shob3r's Stats](https://github-readme-stats.vercel.app/api?username=Shob3r&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
