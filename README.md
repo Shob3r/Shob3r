@@ -10,6 +10,7 @@ I Have Experience in the following programming languages:
 I also have experience in these frameworks/markup languages:
 - [Tauri](https://tauri.app/)
 - [Svelte](https://svelte.dev/)
+- [\(P\)React](https://react.dev)
 - [WinUI3](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/)
 - HTML
 
@@ -20,6 +21,9 @@ These only include projects I haven't abandoned before finishing or projects tha
 
 ### [Yoohoo!](https://github.com/Shob3r/yoohoo)
 Universal "Anime Game" launcher for Linux. Aims to replicate the official windows version of the launcher, and aims to replace the linux-based launchers created by [an-anime-team](https://github.com/an-anime-team). In early development
+
+### [Shob3r.dev](https://github.com/Shob3r/shob3r.dev)
+My personal website. Created over the course of a few days
 
 ## Former
 ### [Shob3r's Weather App](https://github.com/Shob3r/Shob3rsWeatherApp)
