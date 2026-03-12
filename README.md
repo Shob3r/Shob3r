@@ -9,7 +9,7 @@ I Have Experience in the following programming languages:
 
 I also have experience in these frameworks/markup languages:
 - [ElysiaJS](https://elysiajs.com)
-- [\(P\)React](https://react.dev)
+- [React](https://react.dev)/[Preact](https://preactjs.com)
 - [TailwindCSS](https://tailwindcss.com)
 - [Tauri](https://tauri.app/)
 - [Svelte](https://svelte.dev/)
