@@ -23,6 +23,9 @@ These only include projects I haven't abandoned before finishing or projects tha
 ### [Yoohoo!](https://github.com/Shob3r/yoohoo)
 Universal "Anime Game" launcher for Linux. Aims to replicate the official windows version of the launcher, and aims to replace the linux-based launchers created by [an-anime-team](https://github.com/an-anime-team). In early development
 
+### [Sophon Assembler](https://github.com/Shob3r/sophon-assembler)
+API endpoint that aims to deobfuscate the sophon chunk downloading system for games created by the "Anime Game" company
+
 ### [Shob3r.dev](https://github.com/Shob3r/shob3r.dev)
 My personal website. Created over the course of a few days
 
@@ -37,4 +40,3 @@ A desktop application that aims to help with dubbing over voicelines in video ga
 ![Shob3r's Stats](https://github-readme-stats.vercel.app/api?username=Shob3r&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![Shob3r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shob3r&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
