@@ -8,11 +8,12 @@ I Have Experience in the following programming languages:
 - Rust (Very small amount, only exposed through tauri)
 
 I also have experience in these frameworks/markup languages:
+- [ElysiaJS](https://elysiajs.com)
+- [\(P\)React](https://react.dev)
+- [TailwindCSS](https://tailwindcss.com)
 - [Tauri](https://tauri.app/)
 - [Svelte](https://svelte.dev/)
-- [\(P\)React](https://react.dev)
 - [WinUI3](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/)
-- HTML
 
 # Projects
 These only include projects I haven't abandoned before finishing or projects that I am not proud of. Right now it probably doesn't look like much, but eventually I hope to have a nice list of all the things I have developed
