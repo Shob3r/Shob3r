@@ -20,8 +20,8 @@ These only include projects I haven't abandoned before finishing or projects tha
 
 ## Current
 
-### [Yoohoo!](https://github.com/Shob3r/yoohoo)
-Universal "Anime Game" launcher for Linux. Aims to replicate the official windows version of the launcher, and aims to replace the linux-based launchers created by [an-anime-team](https://github.com/an-anime-team). In early development
+### [Elysiae](https://github.com/elysiae-project/elysiae)
+Universal "Anime Game" launcher for Linux. Aims to replicate the official windows version of the launcher, and aims to replace the linux-based launchers created by [an-anime-team](https://github.com/an-anime-team).
 
 ### [Sophon Assembler](https://github.com/Shob3r/sophon-assembler)
 API endpoint that aims to deobfuscate the sophon chunk downloading system for games created by the "Anime Game" company
